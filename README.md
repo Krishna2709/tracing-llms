@@ -1,7 +1,7 @@
 # tracing-llms
 Tracing LLMs using LangSmith, Argilla, and other open-source tools
 
-👉 LangSmith Walkthrough: https://python.langchain.com/docs/guides/langsmith/walkthrough
+👉 LangSmith Walkthrough: https://python.langchain.com/docs/guides/langsmith/walkthrough  <br>
 👉 Model Comparisons Walkthrough: https://python.langchain.com/docs/guides/model_laboratory
 
 
